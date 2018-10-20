@@ -19,13 +19,13 @@
     "78fd9f9a0266b14b73264dfe8ff6cc2970bc06ccfa8f7dd314efa5103b09f4eb"
     ],
     "extract_dir": [
-    "usr\\bin\\gtester.exe",
-    "usr\\bin\\msys-glib-2.0-0.dll",
-    "usr\\bin\\msys-2.0.dll",
-    "usr\\bin\\msys-iconv-2.dll",
-    "usr\\bin\\msys-intl-8.dll",
-    "usr\\bin\\msys-pcre-1.dll"
+    "usr\\bin",
+    "usr\\bin",
+    "usr\\bin",
+    "usr\\bin",
+    "usr\\bin",
+    "usr\\bin"
     ],
     "bin": "gtester.exe",
-    "notes": "Only 64-bit version is provided.",
+    "notes": "Only 64-bit version is provided."
 }
