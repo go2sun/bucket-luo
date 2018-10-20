@@ -13,7 +13,7 @@
 			"a7e00be7ddd00d1a8a5bc7853e1ecdd4f880c6fb26992c0ac84a3b47ed79e1dc",
 			"884c91261bec60e379b1f8ea29f35285e7e7066483b9ce819c047d0a0aec5ca8",
 			"d80826c868e8cb016fe607e8919883e6062162f6813fe8cf138273cf8b136d14"
-			]
+			],
             "extract_dir": [
 			"mingw64",
 			"mingw64",
@@ -30,7 +30,7 @@
 			"a65029d6cd5a47f24b9256fc8f829cb9cc72cbc0dec5cb7834b342bf15d97e95",
 			"dab2536d002bff301b775f3cdda62ac519c9dc7bbd42f7b586fe053b23ee0069",
 			"d690987f8aff2cb5db45f3963c839be6c80f091fe966782115cf82be4b82ec91"
-			]
+			],
             "extract_dir": [
 			"mingw32",
 			"mingw32",
@@ -40,6 +40,6 @@
     },
     "env_add_path": "bin",
 	"env_set": {
-	    "PKG_CONFIG_PATH": "lib\\pkgconfig"
+	    "PKG_CONFIG_PATH": "$dir\\lib\\pkgconfig"
     }
 }
