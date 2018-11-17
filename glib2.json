@@ -5,14 +5,20 @@
     "url": [
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-glib2-2.58.1-1-any.pkg.tar.xz",
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-pcre-8.42-1-any.pkg.tar.xz",
-    "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-libffi-3.2.1-4-any.pkg.tar.xz"
+    "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-libffi-3.2.1-4-any.pkg.tar.xz",
+    "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-libiconv-1.15-3-any.pkg.tar.xz",
+    "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-gettext-0.19.8.1-6-any.pkg.tar.xz"
     ],
     "hash": [
     "a7e00be7ddd00d1a8a5bc7853e1ecdd4f880c6fb26992c0ac84a3b47ed79e1dc",
     "884c91261bec60e379b1f8ea29f35285e7e7066483b9ce819c047d0a0aec5ca8",
-    "d80826c868e8cb016fe607e8919883e6062162f6813fe8cf138273cf8b136d14"
+    "d80826c868e8cb016fe607e8919883e6062162f6813fe8cf138273cf8b136d14",
+    "2956E81BABA9AAE0E77202039D89603FA4FE1EE8DCE4C021AECBCEF252D9598E",
+    "32E9099A8DC1E8B90C9F1D04EE810F3E48F7A8842318BC02461826ACE61F22C9"
     ],
     "extract_dir": [
+    "mingw64",
+    "mingw64",
     "mingw64",
     "mingw64",
     "mingw64"
