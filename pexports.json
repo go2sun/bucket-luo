@@ -12,6 +12,6 @@
     "d2b81eca37cf8e09978c64259850bf4ab42e9401bad19c7f7d8721b2bd9a5067"
     ],
     "bin": [
-        "pexports.exe"
+        "bin\\pexports.exe"
     ]
 }
