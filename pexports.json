@@ -11,7 +11,12 @@
     "d14dfb9af8ebe7887aaefc87e5e3a92e91989ab51e3e8ac27d437a7467991bed",
     "d2b81eca37cf8e09978c64259850bf4ab42e9401bad19c7f7d8721b2bd9a5067"
     ],
+    "extract_dir": [
+    "bin",
+    "doc",
+    "doc"
+    ],
     "bin": [
-        "pexports.exe"
+        "bin\\pexports.exe"
     ]
 }
