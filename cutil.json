@@ -1,6 +1,6 @@
 {
     "homepage": "http://www.gtk.org/",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "Multi.",
     "url": [
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-glib2-2.58.2-1-any.pkg.tar.xz",
@@ -33,7 +33,9 @@
     "env_set": {
     "PKG_CONFIG_PATH": "$dir\\lib\\pkgconfig"
     },
-    "notes": "C Utility. Include glib2, json-glib, pcre, libffi, libiconv, gettext, zlib.",
-    "notes": "From msys2 tsinghua mirror.",
-    "notes": "Only 64-bit version is provided."
+    "notes": [
+    "C Utility libraries. Include glib2, json-glib, pcre, libffi, libiconv, gettext, zlib.",
+    "From msys2 tsinghua mirror.",
+    "Only 64-bit version is provided."
+    ]
 }
