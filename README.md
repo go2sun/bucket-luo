@@ -12,4 +12,5 @@ To make it easy to install apps from this bucket, run
 
 ## List of apps
 
-- libserialport: a minimal, cross-platform shared library written in C.(build with -g flag) [v0.1.1(MinGW64 of MSYS2)].
+- [libserialport](https://raw.githubusercontent.com/luozongtong123/bucket-luo/app/libserialport-0.1.1.tar.xz): a minimal, cross-platform shared library written in C.(build with -g flag) [v0.1.1(MinGW64 of MSYS2)].
+
