@@ -1,6 +1,6 @@
 {
     "homepage": "http://www.gtk.org/",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "license": "Multi.",
     "url": [
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-glib2-2.58.2-1-any.pkg.tar.xz",
@@ -9,7 +9,8 @@
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-libiconv-1.15-3-any.pkg.tar.xz",
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-gettext-0.19.8.1-6-any.pkg.tar.xz",
     "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-zlib-1.2.11-5-any.pkg.tar.xz",
-    "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-json-glib-1.4.4-1-any.pkg.tar.xz"
+    "https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/x86_64/mingw-w64-x86_64-json-glib-1.4.4-1-any.pkg.tar.xz",
+    "https://raw.githubusercontent.com/luozongtong123/bucket-luo/app/libserialport-0.1.1.tar.xz"
     ],
     "hash": [
     "FD8B4DA5424EFF671DBA047F9650B1AEA9933427605463C20BAEED20475EA5C0",
@@ -18,9 +19,11 @@
     "2956E81BABA9AAE0E77202039D89603FA4FE1EE8DCE4C021AECBCEF252D9598E",
     "32E9099A8DC1E8B90C9F1D04EE810F3E48F7A8842318BC02461826ACE61F22C9",
     "8c7088c5c0a1fa1f3ba2935da1c4728daf65c699b0fb688be03926ce9f763201",
-    "d3610c06e2a4fd0c24bf7927d3ec22b1efda6cf005c4cb3eae6dd8639a5e8d7b"
+    "d3610c06e2a4fd0c24bf7927d3ec22b1efda6cf005c4cb3eae6dd8639a5e8d7b",
+    "7317b3755624028b6e115ec8257f7c47a00700f9f4670ef4c2d0aedbd47b7e37"
     ],
     "extract_dir": [
+    "mingw64",
     "mingw64",
     "mingw64",
     "mingw64",
@@ -34,7 +37,7 @@
     "PKG_CONFIG_PATH": "$dir\\lib\\pkgconfig"
     },
     "notes": [
-    "C Utility libraries. Include glib2, json-glib, pcre, libffi, libiconv, gettext, zlib.",
+    "C Utility libraries. Include glib2, json-glib, pcre, libffi, libiconv, gettext, zlib, libserialport.",
     "From msys2 tsinghua mirror.",
     "Only 64-bit version is provided."
     ]
