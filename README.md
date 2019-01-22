@@ -12,5 +12,5 @@ To make it easy to install apps from this bucket, run
 
 ## List of apps
 
-- [libserialport](https://raw.githubusercontent.com/luozongtong123/bucket-luo/app/mingw-w64-x86_64-libserialport-0.1.1.tar.xz): a minimal, cross-platform shared library written in C.(build with -g flag) [v0.1.1(MinGW64 of MSYS2)]. SHA256: 7317b3755624028b6e115ec8257f7c47a00700f9f4670ef4c2d0aedbd47b7e37
+- [libserialport](https://raw.githubusercontent.com/luozongtong123/bucket-luo/app/mingw-w64-x86_64-libserialport-0.1.1.tar.xz): a minimal, cross-platform shared library written in C.(build with -g flag) [v0.1.1(MinGW64 of MSYS2)]. SHA256: 7fe050957ff039cec096605fb1a1d60be0cb11a84d8bf71b79753a5058f95ec5
 
